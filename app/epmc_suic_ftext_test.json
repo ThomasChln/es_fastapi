@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "text": "Suicidal Behavior in Emergency Child and Adolescent Psychiatric Service Users Before and During the 16 Months of the COVID-19 Pandemic \n Slovenia is among the countries with the highest suicide rates in the world. The COVID-19 pandemic has had a significant impact on the mental health of children and adolescents. Our hypothesis is that the school closure during the pandemic with a gradual transfer to virtual schooling had an important impact on children's and adolescents' suicidal behavior. Therefore, we aimed to determine possible changes in the frequency of assessments as well as frequency and severity of suicidal behavior in the population of Slovene children and adolescents seeking emergency psychiatric help in correlation with the progression of the pandemic and online schooling. We performed a retrospective observational analysis of medical records of all children and adolescents referred to the only 24-h emergency in- and outpatient child and adolescent psychiatry service in Slovenia from March 2019 through the end of July 2021."
+  },
+  {
+    "id": 2,
+    "text": "Suicidal behavior in a migrant majority population and impact on trends during the early Covid-19 period: a cross sectional study in Qatar \n Qatar is a high-income country with 90% of the population being economic migrants from low income countries. Due to this unique population composition, it has been suggested that Qatar may not follow suicide trends of high-income countries. Additionally, there is paucity of information on suicidal trends and rates due to social and cultural reasons. The Covid-19 pandemic has additionally impacted mental health of migrants differently form native Qataris. This study explores suicidal behavior trends among individuals attending the main Emergency Department in the state of Qatar for mental health emergencies."
+  },
+  {
+    "id": 3,
+    "text": "Text mining for identifying the nature of online questions about non-suicidal self-injury \n The internet provides convenient access to information about non-suicidal self-injury (NSSI) owing to its accessibility and anonymity. This study aimed to explore the distribution of topics regarding NSSI posted on the internet and yearly trends in the derived topics using text mining. We searched for the keyword “non-suicidal self-injury” (Ja-Hae in Korean) in the Naver Q&A using the statistical package R. We analyzed 7893 NSSI-related questions posted between 2009 and 2018. Text mining was performed using latent Dirichlet allocation (LDA) on the dataset to determine associations between phrases and thus identify common themes in posts about NSSI."
+  },
+  {
+    "id": 4,
+    "text": "Worldwide suicide mortality trends by firearm (1990-2019): A joinpoint regression analysis \n Suicide by firearm is a major public health problem in many countries. But, studies that investigated the mortality of suicide by firearm on a global scale are still limited. The aim of this study was to assess the global, regional and national trends in mortality of suicide by firearm from 1990 to 2019. Mortality data of suicide by firearm was presented using the age-standardized rates (ASRs, expressed per 100,000). Joinpoint regression analysis was used to assess trends of mortality of suicide by firearm: the average annual percent change (AAPC) with the corresponding 95% confidence interval (95%CI) was calculated."
+  },
+  {
+    "id": 5,
+    "text": "Longitudinal Development of Reasons for Living and Dying With Suicide Attempters: A 2-Year Follow-Up Study \n Clinical interventions for patients after a suicide attempt might include a focus on Reasons for Living (RFL) and/or Reasons for Dying (RFD). The present study examined the longitudinal development of RFL and RFD in patients with and without a suicide-specific intervention - the Attempted Suicide Short Intervention Program (ASSIP). In this secondary analysis of a 2-year follow-up randomized controlled study, participants completed the Suicide Status Form II to assess RFL and RFD, at baseline, as well as at 6-, 12-, 18-, and 24-months follow-up. Growth models and latent class analysis were used to investigate longitudinal developments in RFL and RFD. Regression models were used to test the association between RFL, RFD and suicidal reattempts and ideation."
+  },
+  {
+    "id": 6,
+    "text": "Comparison of Patterns of Non-suicidal Self-Injury and Emotion Dysregulation Across Mood Disorder Subtypes \n Non-suicidal self-injury (NSSI) is frequently encountered in patients with mood disorders. Emotion dysregulation (ED), frequently observed in mood disorders, could be a major mediating factor in NSSI. The aim of this study was to explore differences in NSSI behavior and ED across mood disorder subtypes. The relationships between childhood trauma and NSSI and ED were also explored. A total of 191 patients with mood disorders were included in this study."
+  }
+]
